@@ -24,6 +24,7 @@ ul {
   margin: 0;
 }
 
+/*---- BUTTON ----*/
 button {
   background-color: #55afc5;
   height: 30px;
@@ -39,22 +40,6 @@ button:hover {
   border-radius: 0 15px 15px 0;
 }
 
-/* .load-more {
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 50px;
-  width: 150px;
-  border-radius: 15px;
-}
-.load-more:hover {
-  color: #fff;
-  background-color: #396772;
-}
-
-<!-- HTML !-->
-<button class="button-86" role="button">Button 86</button> */
-
-/* CSS */
 .load-more {
   all: unset;
   width: 100px;

@@ -50,6 +50,7 @@ async function inputValue(evt) {
       searchForm.reset();
 
       imageList(result.data.hits);
+      console.log(result.data);
       Notify.success(`Hooray! We found ${totalHits} images.`);
       return;
     }
